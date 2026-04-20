@@ -38,45 +38,6 @@ Then visit:
 http://localhost:8080/jwt-security-scanner.html
 ```
 
-## GitHub upload steps
-
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/jwt-security-scanner.git
-git push -u origin main
-```
-
-## GitHub Pages
-
-1. Push the repository to GitHub
-2. Open **Settings -> Pages**
-3. Set source to the `main` branch
-4. Select the root folder
-5. Save and wait for deployment
-
-Your live demo URL will look like:
-
-```text
-https://YOUR-USERNAME.github.io/jwt-security-scanner/
-```
-
-## Suggested next upgrades
-
-- Add a backend API for optional JWKS validation
-- Add framework fingerprints for insecure JWT handling
-- Add Markdown/PDF export
-- Add a lab-only active testing mode with hard scope controls
-- Add CI checks for insecure JWT code usage in repos
-
-## Security references that shaped the detection ideas
-
-- PortSwigger Web Security Academy JWT guidance
-- JWT algorithm confusion research
-- Common JWT verification pitfalls documented by established security tooling and vendor guidance
-
 ## License
 
 MIT
