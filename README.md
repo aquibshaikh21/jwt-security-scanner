@@ -3,8 +3,7 @@
 A polished, GitHub-ready JWT analysis project for web/API security workflows.
 
 <img width="1569" height="882" alt="image" src="https://github.com/user-attachments/assets/4d89d8b2-60f9-4f50-9cb9-cfb2890ab50f" />
-
-
+<br></br>
 <img width="1456" height="886" alt="image" src="https://github.com/user-attachments/assets/094cbd26-419b-4400-ab28-8fd3c9893dfb" />
 
 ## What this project does
