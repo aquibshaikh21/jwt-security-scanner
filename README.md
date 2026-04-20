@@ -41,6 +41,8 @@ Then visit:
 ```text
 http://localhost:8080/jwt-security-scanner.html
 ```
+## Live URL
+https://aquibshaikh21.github.io/jwt-security-scanner/
 
 ## License
 
