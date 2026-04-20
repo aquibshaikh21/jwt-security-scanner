@@ -2,6 +2,9 @@
 
 A polished, GitHub-ready JWT analysis project for web/API security workflows.
 
+<img width="1569" height="882" alt="image" src="https://github.com/user-attachments/assets/4d89d8b2-60f9-4f50-9cb9-cfb2890ab50f" />
+
+
 ## What this project does
 
 This project provides a **safe, client-side JWT inspection interface** that helps analysts and developers:
